@@ -1,4 +1,3 @@
-import Image from "next/image";
 import prisma from "@/lib/prisma";
 import Post from "../components/Post"
 import Link from "next/link";
